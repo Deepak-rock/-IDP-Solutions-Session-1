@@ -1,6 +1,5 @@
-# String validation 
+# String validation-4 
 
-# Variant Questions
 """ 
     Write a pragram that reads a string S, S can contain multiple words, where each word starts with an uppercase letter except the first word (ThisThatThem).
 

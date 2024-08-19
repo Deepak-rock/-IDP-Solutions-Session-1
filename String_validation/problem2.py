@@ -1,6 +1,5 @@
-# String validation 
+# String validation-2
 
-# Variant Questions
 """ 
     Write a pragram that reads a string S, S can contain multiple words and all the words in S are separated by underscore (mango_tree): 
 
